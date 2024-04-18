@@ -1,7 +1,18 @@
+
+
 # Olá! Eu sou Gabriel Silveira 👋
 
+<div>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+
+  
+</div>
+  
+
 ## Quem sou? 🤔
-Sou apaixonado pelo desenvolvimento de interfaces! Atualmente estudo desenvolvimento Fullstack pela Growdev e UI/UX Design pela Origamid. 
+Sou apaixonado pelo `desenvolvimento de interfaces!` Atualmente estudo desenvolvimento `Fullstack` pela Growdev e `UI/UX Design` pela Origamid. 
 Gosto muito de me desafiar, e é isso que me motiva a sempre me aventurar em novas áreas!
 
 ## Tecnologias que estudo atualmente 💻
@@ -23,7 +34,7 @@ Gosto muito de me desafiar, e é isso que me motiva a sempre me aventurar em nov
 
 
 ### O que almejo alcançar? 🚀
-Minha princpial meta é conquistar minha primeira vaga como desenvolvedor web nos próximos meses! Com isso abrir novas portas e oportunidades pessoais e profissionais, para mostrar o meu potencial
+Minha princpial meta é conquistar minha primeira vaga como desenvolvedor web nos próximos meses! Com isso abrir novas portas e oportunidades pessoais e profissionais, para mostrar o meu `potencial.`
 
 ### Sobre mim: 😊
 Desde cedo trabalhei em diversas áreas - de vendedor à auxiliar de suporte -, mas nunca senti que havia encontrado o meu lugar! Já tive contato com o mundo de desenvolvimento web desde meados de 2019, mas nunca havia me interessao pela área. Até que no início de 2023 fiz um cursinho de HTML e CSS e desde então não parei mais.
