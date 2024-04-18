@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://github.com/devgabrielsilveira/devgabrielsilveira/assets/133072628/70868d92-34b5-48a5-8a34-1b7af336866f.png" width="900px" height="100px"/>
+  <img src="https://github.com/devgabrielsilveira/devgabrielsilveira/assets/133072628/b9305ccf-076f-4a4a-a073-1487997fbffd.png" width="1000px"/>
 </div>
-
 
 
 # Olá! Eu sou Gabriel Silveira 👋
