@@ -1,26 +1,40 @@
-<h1 align="center">Olá! Eu sou Gabriel Silveira 👋</h1>
+<div>
+    <img width=100% src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&center=true&random=false&width=435&lines=Ol%C3%A1%21+Eu+sou+Gabriel+Silveira+%F0%9F%91%8B&repeat=true&color=5F60A3&size=22" alt="Typing SVG">
+</div>
+
 
 <div align="center">
   <img width="60%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=devgabrielsilveira&layout=compact&theme=dark&langs_count=8&card_width=320"/>
 </div>
 
+<br>
+
 <div align="center">
-  <a href="mailto:desenvolvedorgabrielsilveira@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
   <a href="https://www.linkedin.com/in/gabriel-silveira-67979b18a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</div> 
+  
+  <a href="mailto:devgabrielsilveira@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+
+   <a href="https://wa.me/5551990139174" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</div>
+
+<br>
 
 ## 💻 Quem sou?   
-Sou um Desenvolvedor Full Stack com foco em UX/UI, apaixonado por criar interfaces e aplicações inovadoras! Atualmente estudo desenvolvimento Full Stack pela [Growdev](https://www.growdev.com.br/), e complemento meus estudos na [B7Web](https://alunos.b7web.com.br/) e [Origamid](https://www.origamid.com/).
+Sou Gabriel Silveira, Desenvolvedor Full Stack com foco em UX/UI, apaixonado por criar interfaces e aplicações inovadoras! Atualmente estudo desenvolvimento Full Stack pela [Growdev](https://www.growdev.com.br/), e complemento meus estudos na [B7Web](https://alunos.b7web.com.br/) e [Origamid](https://www.origamid.com/).
 
 Já concluí projetos de UX/UI Design e continuo aprimorando minhas habilidades, agora com Design Gráfico, para construir uma base mais sólida.  
 
 Gosto muito de me desafiar saindo da minha zona de conforto, e é isso que me motiva a sempre me aventurar em novas tecnologias!  
 
 ---
+
+<br>
 
 ## 🧠 Hard Skills   
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
@@ -50,6 +64,8 @@ Gosto muito de me desafiar saindo da minha zona de conforto, e é isso que me mo
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
 
 ---
+
+<br>
 
 ## 🛸 O que faço no meu tempo livre?   
 - Amo passar meu tempo livre com minha namorada e família  
