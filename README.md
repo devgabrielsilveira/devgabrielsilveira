@@ -1,14 +1,10 @@
-<div align="center">
-  <img src="image-github.jpg" />
-</div>
-
-# Olá! Eu sou Gabriel Silveira 👋
+<h1 align="center">Olá! Eu sou Gabriel Silveira 👋</h1>
 
 <div align="center">
   <img width="60%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=devgabrielsilveira&layout=compact&theme=dark&langs_count=8&card_width=320"/>
 </div>
 
-<div>
+<div align="center">
   <a href="mailto:desenvolvedorgabrielsilveira@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
@@ -61,3 +57,7 @@ Gosto muito de me desafiar saindo da minha zona de conforto, e é isso que me mo
 - Adoro viajar, assistir futebol, filmes e séries  
 
 --- 
+
+<div align="center">
+  <img src="image-github.jpg" />
+</div>
