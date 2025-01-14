@@ -53,7 +53,7 @@ Gosto muito de me desafiar saindo da minha zona de conforto, e é isso que me mo
 ![Git/GitHub](https://img.shields.io/badge/-Git/GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;  
 
----
+<br>
 
 ## ⚙️ Futuras Skills   
 ![Redux](https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=redux&labelColor=0D1117)&nbsp;
@@ -72,7 +72,7 @@ Gosto muito de me desafiar saindo da minha zona de conforto, e é isso que me mo
 - Gosto de aprender mais sobre música e história  
 - Adoro viajar, assistir futebol, filmes e séries  
 
---- 
+<br>
 
 <div align="center">
   <img src="image-github.jpg" />
