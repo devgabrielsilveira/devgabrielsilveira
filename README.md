@@ -1,5 +1,5 @@
 <div align="center">
-  ![Imagem de para README](image-github.avif)
+  ![image-github](https://github.com/user-attachments/assets/4215e72b-7e18-4b2c-a084-43836f99e29c)
 </div>
 
 # Olá! Eu sou Gabriel Silveira 👋
