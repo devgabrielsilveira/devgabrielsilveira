@@ -1,5 +1,5 @@
 <div align="center">
-  ![image-github](https://github.com/user-attachments/assets/4215e72b-7e18-4b2c-a084-43836f99e29c)
+  <img src="image-github.jpg" />
 </div>
 
 # Olá! Eu sou Gabriel Silveira 👋
