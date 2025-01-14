@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/devgabrielsilveira/devgabrielsilveira/assets/133072628/b9305ccf-076f-4a4a-a073-1487997fbffd.png" width="1000px"/>
+  ![Imagem de para README](image-github.avif)
 </div>
 
 # Olá! Eu sou Gabriel Silveira 👋
