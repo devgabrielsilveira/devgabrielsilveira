@@ -36,15 +36,18 @@ Gosto muito de me desafiar saindo da minha zona de conforto, e é isso que me mo
 
 <br>
 
+## ⚙️ Skills em Aprendizado
+![ReactJS](https://img.shields.io/badge/-ReactJS-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![NextJS](https://img.shields.io/badge/-NextJS-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-0D1117?style=for-the-badge&logo=nodedotjs&labelColor=0D1117)&nbsp;
+![Express](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=redux&labelColor=0D1117)&nbsp;
+
 ## 🧠 Hard Skills   
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
-![ReactJS](https://img.shields.io/badge/-ReactJS-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![NextJS](https://img.shields.io/badge/-NextJS-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117)&nbsp;
-![NodeJS](https://img.shields.io/badge/-NodeJS-0D1117?style=for-the-badge&logo=nodedotjs&labelColor=0D1117)&nbsp;
-![Express](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
@@ -55,8 +58,7 @@ Gosto muito de me desafiar saindo da minha zona de conforto, e é isso que me mo
 
 <br>
 
-## ⚙️ Futuras Skills   
-![Redux](https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=redux&labelColor=0D1117)&nbsp;
+## 🎯 Futuras Skills   
 ![NestJS](https://img.shields.io/badge/-NestJS-0D1117?style=for-the-badge&logo=nestjs&labelColor=0D1117)&nbsp;
 ![NoSQL](https://img.shields.io/badge/-NoSQL-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
