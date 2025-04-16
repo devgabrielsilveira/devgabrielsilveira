@@ -42,6 +42,7 @@ Gosto muito de me desafiar saindo da minha zona de conforto, e é isso que me mo
 ![NodeJS](https://img.shields.io/badge/-NodeJS-0D1117?style=for-the-badge&logo=nodedotjs&labelColor=0D1117)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=redux&labelColor=0D1117)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
 
 ## 🧠 Hard Skills   
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
@@ -61,7 +62,6 @@ Gosto muito de me desafiar saindo da minha zona de conforto, e é isso que me mo
 ## 🎯 Futuras Skills   
 ![NestJS](https://img.shields.io/badge/-NestJS-0D1117?style=for-the-badge&logo=nestjs&labelColor=0D1117)&nbsp;
 ![NoSQL](https://img.shields.io/badge/-NoSQL-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
 
