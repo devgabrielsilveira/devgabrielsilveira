@@ -75,9 +75,9 @@ Além disso, já conduzi projetos de **UX/UI Design**, e sigo aprimorando habili
 <br>
 
 ## 🛸 O que faço no meu tempo livre?   
-- Amo passar meu tempo livre com minha namorada e família  
+- Amo passar meu tempo livre com minha mulher, família e cachorros.  
 - Gosto de aprender mais sobre música e história  
-- Adoro viajar, assistir futebol, filmes e séries  
+- Adoro cozinhar, viajar, assistir futebol, filmes e séries  
 
 <br>
 
