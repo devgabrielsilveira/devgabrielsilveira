@@ -28,7 +28,7 @@
 ## 💻 Quem sou?   
 Sou Gabriel Silveira, **Full Stack UX/UI Developer**, apaixonado por criar aplicações web modernas e soluções digitais eficientes.
 
-Atualmente me especializo em desenvolvimento pela **B7Web** e **Origamid**, enquanto também lidero a **Boêmia.smk** — agência de marketing que fundei, focada em impulsionar marcas através de estratégias digitais completas.
+Atualmente lidero a **Boêmia.smk** — agência de Marketing & Publicidade que fundei em 2024, focada em impulsionar marcas através de estratégias digitais completas.
 
 Minha trajetória combina a prática do desenvolvimento de sistemas e aplicações com a vivência estratégica em projetos de branding, tráfego pago, estruturação de presença online e criação de produtos digitais.
 
