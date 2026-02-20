@@ -2,11 +2,6 @@
     <img width=100% src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&center=true&random=false&width=435&lines=Ol%C3%A1%21+Eu+sou+Gabriel+Silveira+%F0%9F%91%8B&repeat=true&color=5F60A3&size=22" alt="Typing SVG">
 </div>
 
-
-<div align="center">
-  <img width="60%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=devgabrielsilveira&layout=compact&theme=dark&langs_count=8&card_width=320"/>
-</div>
-
 <br>
 
 <div align="center">
